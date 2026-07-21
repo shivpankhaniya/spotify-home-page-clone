@@ -91,6 +91,3 @@ cd spotify-clone
 
 ---
 
-## ⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
