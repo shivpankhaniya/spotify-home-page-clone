@@ -10,7 +10,6 @@ body {
     height: 100vh;
     color: white;
     padding: 0.5rem;
-
 }
 
 .sidebar {
@@ -18,7 +17,6 @@ body {
     width: 330px;
     border-radius: 1rem;
     margin-right: 0.5rem;
-
 }
 
 .main-content {
@@ -27,7 +25,6 @@ body {
     border-radius: 1rem;
     overflow: auto;
     padding: 0 1.5rem 0 1.5rem;
-
 }
 
 .music-player {
@@ -38,8 +35,6 @@ body {
     width: 100%;
     height: 72px;
     display: block;
-
-
 }
 
 a {
@@ -54,9 +49,7 @@ a {
     flex-direction: column;
     justify-content: center;
     height: 100px;
-
     padding: 0.5rem 0.75rem;
-
 }
 
 .nav-option {
@@ -71,8 +64,6 @@ a {
 
 .nav-option i {
     font-size: 1.25rem;
-
-
 }
 
 .nav-option a {
@@ -87,14 +78,12 @@ a {
     height: 100%;
     margin-top: 0.6rem;
     padding: 0.5rem 0.75rem;
-
 }
 
 .options {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .lib-options img {
@@ -147,13 +136,11 @@ a {
     font-size: 0.85rem;
     height: 2rem;
     width: fit-content;
-
 }
 
 .dark-badge {
     background-color: #000;
     color: #fff;
-
 }
 
 .sticky-nav {
@@ -176,12 +163,10 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .nav-item {
     margin-right: 1rem;
-
 }
 
 @media (max-width: 1000px) {
@@ -197,7 +182,6 @@ a {
     padding: 1rem;
     margin-left: 1.5rem;
     margin-top: 1rem;
-
 }
 
 .card-container {
@@ -232,7 +216,6 @@ a {
     height: 50%;
     border-top: 1px solid white;
     opacity: 0.4;
-
 }
 
 .music-player {
@@ -269,8 +252,6 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-
-
 }
 
 .progress-bar {
