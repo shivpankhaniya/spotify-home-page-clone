@@ -86,7 +86,7 @@ cd spotify-clone
 
 **Shiv Pankhaniya**
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/shivpankhaniya
 - LinkedIn: www.linkedin.com/in/shiv-pankhaniya-006530308
 
 ---
